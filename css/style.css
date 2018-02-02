@@ -37,15 +37,3 @@ a{
 footer{
 	margin-top: 15px;
 }
-
-@media screen and (max-width: 768px){
-	.main{
-		width:96%;
-	}
-	.mobile-768-none{
-		display: none;
-	}
-	.mobile-768-block{
-		display: block;
-	}
-}
